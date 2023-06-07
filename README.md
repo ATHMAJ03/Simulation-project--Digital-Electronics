@@ -19,6 +19,7 @@ An OR gate can be replaced by NAND gates as shown in the figure (The OR gate is 
 Developed By : ATHMAJ VENUGOPAL
 Register No : 212222240014
 ```
+```
 module aaa(a,b,f);
 input a,b;
 output f;
@@ -29,3 +30,4 @@ nand (f,c,d);
 endmodule
 ```
 # REFERENCE
+https://github.com/ATHMAJ03/Simulation-project--Digital-Electronics.git
